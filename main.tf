@@ -1,4 +1,4 @@
-[pankajarya@Node-1 terraform]$ cat main.tf
+
 terraform {
   required_providers {
     docker = {
